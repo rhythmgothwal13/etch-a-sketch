@@ -1,0 +1,18 @@
+html{
+    background-color: rgb(78,78,78);
+    text-align: center;
+}
+.clrType{
+    border-radius: 30%;
+}
+.container{
+    display: grid;
+  max-width: 500px;
+  min-height: 500px;
+  margin: 2rem auto;
+  border: 2px solid black;
+}
+.cell{
+    background-color: white;
+    
+}
